@@ -21,7 +21,7 @@
         <jwt.version>0.9.0</jwt.version>
         <google.guava>23.0</google.guava>
         <commons-lang3>3.7</commons-lang3>
-        <poi.version>3.17</poi.version>
+        <poi.version>4.1.1</poi.version>
         <swagger.version>2.7.0</swagger.version>
         <quartz.version>2.3.0</quartz.version>
     </properties>
